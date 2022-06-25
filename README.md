@@ -5,5 +5,5 @@ Users can download the dataset by [google drive](https://drive.google.com/drive/
 
 The mask_maker2.ipynb shows a demo how to make the TFrecords files for the dataset and use this dataset to train and test a deep neural networks.
 
-If having any problems, please feel free to contact ``tongzheng@seu.edu.cn''.
+If having any problems, please feel free to contact Dr. Zheng Tong (tongzheng@seu.edu.cn).
 
