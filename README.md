@@ -10,6 +10,7 @@ If having any problems, please feel free to contact Dr. Zheng Tong (tongzheng@se
 Please use the below citation if you use our database, thank you.
 
 @misc{pavementscapes,
+
   doi = {10.48550/ARXIV.2208.00775},
   
   author = {Tong, Zheng and Ma, Tao and Huyan, Ju and Zhang, Weiguang},
